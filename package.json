@@ -2,11 +2,11 @@
   "name": "tienda",
   "version": "1.0.0",
   "description": "Sistema de Facturacion",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon index.js",
-    "start": "nodemon index.js"
+    "dev": "nodemon app.js",
+    "start": "nodemon app.js"
   },
   "author": "Lourdes Alejandro",
   "license": "GPL-3.0",
